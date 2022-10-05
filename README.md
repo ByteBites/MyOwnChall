@@ -1,7 +1,7 @@
 # MyOwnChall
 
 Here are my own challenges that I made for CTF Competition :D<br>
-I just toss all my projects around and making it kinda like a library, either for me or for someone, hehehe
+I just toss all my projects around on this github platform and making it kinda like a library, either for me or for someone, hehehe
 
 Still learning the difficult and be more better each time I learn something new :)
 
