@@ -1,3 +1,3 @@
-These are the challenges made for the CTF competition at BINUS University's special event that is held every year
+# BINUS University - Capture The Flag
 
-Enjoy :D
+These are the challenges made for Senior High School student whose starting to get into the DFIR :D
