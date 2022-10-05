@@ -1,3 +1,5 @@
-# BINUS University - Capture The Flag
+# BeeFest - Capture The Flag
 
-These are the challenges made for Senior High School student whose starting to get into the DFIR :D
+This event which contain CTF Competition is held by BINUS University, especially for Senior High School student 
+
+...and I'm focused on making a Digital Forensic challenges :D
